@@ -1,0 +1,25 @@
+.conteinner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin: 50px auto;
+    background-color: #fff;
+    max-width: 640px;
+    border-radius: 4px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.conteinner h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.conteinner p{
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+}
